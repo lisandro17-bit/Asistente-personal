@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "a734488cd8bd12f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "e71a226070d519b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f6a382dbd4bd3ae2",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Proyectos/Asistente de empresas/AAA Mapa.canvas",
+                "viewState": {
+                  "x": 1240,
+                  "y": 210,
+                  "zoom": -2.0500406824995956
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "AAA Mapa"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f4cd36d14fdfe151",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf67e35ec436ad26",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a6496458372a4beb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0707f884497747db",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "af9043a122c9f2bb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "652112d58ac37ca6",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9907241fb615f5e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b271f501457d148",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Nueva carpeta/hola mundo.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for hola mundo"
+            }
+          },
+          {
+            "id": "8c01470a03b08c09",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Nueva carpeta/hola mundo.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from hola mundo"
+            }
+          },
+          {
+            "id": "1a78a7273cc42b41",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0b15a86e193eb7e9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Nueva carpeta/hola mundo.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of hola mundo"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "f6a382dbd4bd3ae2",
+  "lastOpenFiles": [
+    "Proyectos/Asistente de empresas/Analisis de proyecto.md",
+    "Proyectos/Asistente de empresas/Base de datos productos.md",
+    "Nueva carpeta/hola mundo.md",
+    "Pruebas/hola mundo.md",
+    "Pruebas",
+    "Nueva carpeta"
+  ]
+}
